@@ -1,0 +1,17 @@
+#!/bin/bash
+alarm-clock-applet --hidden &
+sleep 1
+#nm-applet & ruim pois o icone aparece e desaparece (pisca) toda hora
+sleep 1
+volumeicon &
+sleep 1
+gnumeric ~/Documents/agenda.gnumeric &
+sleep 1
+#o lxpolkit é necessário para o mintUpdate funcionar
+lxpolkit &
+sleep 1
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py &
+sleep 1
+blueman-applet &
+#sleep 1
+#cd /home/$USER/.icewm/typewriter-sounds/ && setsid python typewriter_sounds.py &

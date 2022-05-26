@@ -1,0 +1,12 @@
+# ROX-Filer pinboard and panel
+ROX-Filer.icon: folder
+ROX-Panel.layer: Dock
+ROX-Panel.doNotCover: 1
+ROX-Panel.ignoreWinList: 1
+ROX-Panel.ignoreTaskBar: 1
+ROX-Panel.ignoreQuickSwitch: 1
+ROX-Pinboard.layer: Below
+ROX-Pinboard.ignoreWinList: 1
+ROX-Pinboard.ignoreTaskBar: 1
+ROX-Pinboard.ignoreQuickSwitch: 1
+ROX-Filer.layer: Normal

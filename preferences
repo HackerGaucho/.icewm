@@ -1,0 +1,34 @@
+#https://convertio.co/pt/png-xpm/
+
+TaskBarShowShowDesktopButton=1 # 0/1
+TimeFormat=" %A, %d.%b.%Y, %H:%M"
+TaskBarShowWindowListMenu=0 # 0/1
+ShowProgramsMenu=0
+KeySysWinMenu=""
+TaskBarShowAPMGraph=0
+TaskBarShowAPMStatus=1
+TaskBarShowAPMAuto=1
+NetworkStatusDevice="eth0 wlan0"
+
+TaskBarShowStartMenu=1
+
+TaskBarShowCPUStatus=0
+CPUStatusShowRamUsage=0
+CPUStatusShowSwapUsage=0
+CPUStatusShowAcpiTemp=0
+CPUStatusShowCpuFreq=0
+TaskBarShowMEMStatus=0
+ClockCommand="gsimplecal"
+TaskBarShowWorkspaces=0
+
+ColorApm=""
+ColorApmText="#000000"
+ColorClock=""
+ColorClockText="#000000"
+ColorMinimizedTaskBarApp="rgb:C0/C0/C0"
+
+
+DesktopBackgroundCenter=1
+DesktopBackgroundScaled=1
+DesktopBackgroundColor="#008080"
+DesktopBackgroundImage="wallpaper.jpg"

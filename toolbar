@@ -1,0 +1,8 @@
+prog "Atom" /usr/share/atom/atom.png atom
+prog "Firefox" /usr/share/app-install/icons/firefox.png firefox
+prog "Thunderbird" /usr/share/app-install/icons/thunderbird.png thunderbird
+prog "Gnumeric" /usr/share/app-install/icons/gnumeric.png gnumeric 
+prog "Rhythmbox" /usr/share/app-install/icons/rhythmbox.png rhythmbox
+prog "PCManFM" /usr/share/icons/gnome/16x16/apps/system-file-manager.png pcmanfm
+prog "Editor de texto" /usr/share/icons/Mint-X/apps/16/leafpad.png leafpad
+prog "Terminal" /usr/share/icons/Mint-X/apps/16/terminal.png xfce4-terminal
