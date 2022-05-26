@@ -1,5 +1,7 @@
 # tema para o icewm
 
+![tema para o icewm](tema.png "tema para o icewm")
+
 ## instalação
 
 para instalar o icewm
