@@ -1,0 +1,7 @@
+#https://pypi.org/project/python-xlib/
+#https://github.com/python-xlib/python-xlib
+#https://www.pygame.org/news
+sudo apt install python-pip -y
+pip install python-xlib
+pip install pygame
+python typewriter_sounds.py
