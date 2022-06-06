@@ -7,7 +7,7 @@
 para instalar o icewm
 
 ```bash
-sudo apt install -y icewm volumeicon-alsa
+sudo apt install -y alarm-clock-applet blueman-applet icewm lxpolkit suckless-tools volumeicon-alsa xfce4-screenshooter xfce4-terminal
 ```
 
 para instalar o tema
