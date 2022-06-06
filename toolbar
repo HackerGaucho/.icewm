@@ -1,3 +1,4 @@
+prog "Atom" /usr/share/atom/atom.png atom
 prog "Firefox" /usr/share/app-install/icons/firefox.png firefox
 prog "Thunderbird" /usr/share/app-install/icons/thunderbird.png thunderbird
 prog "Gnumeric" /usr/share/app-install/icons/gnumeric.png gnumeric 
