@@ -1,5 +1,9 @@
 # tema para o icewm
 
+## sobre
+
+pra quem quer saber qual é o meu desktop eu uso o linux mint versão xfce (ubuntu) como base para o gerenciador de janelas [icewm](https://ice-wm.org/) com esse tema customizado
+
 ![tema para o icewm](tema.v2.png "tema para o icewm")
 
 ## instalação
